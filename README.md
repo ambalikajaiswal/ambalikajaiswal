@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=ambalikajaiswal)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ambalikajaiswal&theme=midnight-purple)](https://git.io/streak-stats)
 
 
