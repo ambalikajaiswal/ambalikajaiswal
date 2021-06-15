@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambalikajaiswal)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ambalikajaiswal&show_icons=true&theme=midnight-purple)](https://git.io/streak-stats)
 <!--
 **ambalikajaiswal/ambalikajaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
