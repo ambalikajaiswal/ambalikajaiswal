@@ -121,10 +121,10 @@ I enjoy taking ambiguous problems and turning them into systems that actually sh
 if that sounds like your team, I'd love to connect.
 
 <br/><br/>
-
+<img src="https://github.com/ambalikajaiswal/ambalikajaiswal/blob/main/pointing-finger.svg" width="40" height="40"/>
 <a href="https://github.com/ambalikajaiswal/ambalikajaiswal/raw/main/assets/Ambalika_Jaiswal_Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
-<img src="https://github.com/ambalikajaiswal/ambalikajaiswal/blob/main/pointing-finger.svg" width="40" height="40"/>
+
 
 </div>
