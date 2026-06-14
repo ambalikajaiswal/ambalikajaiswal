@@ -15,10 +15,9 @@
 
 I'm a graduate student at USC building applied ML and full-stack systems, with hands-on experience shipping
 production features at **Amazon** and building data-quality pipelines at **Optum (UnitedHealth Group)**.
-I like working at the intersection of **agentic AI, distributed systems, and clean RESTful APIs** — and I
-recently won a hackathon for a multi-agent dietary discovery app.
+I like working at the intersection of **agentic AI, distributed systems, and clean RESTful APIs**
 
-- 🔭 Currently finishing my M.S. in Applied Data Science at USC (May 2026)
+- 🔭 Currently finished my M.S. in Applied Data Science at USC (May 2026)
 - 💡 Interested in LLM agents, NLP, and scalable cloud architectures
 - 🏆 Hackathon Winner — Dietary Maps AI (multi-agent system, 8 specialized agents)
 - 📫 Reach me at **jaiswalambalika@gmail.com**
