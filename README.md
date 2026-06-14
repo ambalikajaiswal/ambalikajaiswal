@@ -114,13 +114,11 @@ least-privilege IAM access with automatic secret destruction.
 
 <div align="center">
 
-I'm looking for my next challenge in **Software, Backend, or AI/ML Engineering**. 
-I enjoy taking ambiguous problems and turning them into systems that actually 
-ship — if that sounds like your team, I'd love to connect.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=6C63FF&center=true&vCenter=true&width=700&height=80&lines=I'm+looking+for+my+next+challenge+in+Software%2C+Backend%2C+or+AI%2FML+Engineering.;I+enjoy+taking+ambiguous+problems+and+turning+them+into+systems+that+ship.;If+that+sounds+like+your+team%2C+I'd+love+to+connect+%F0%9F%9A%80" />
 
 <br/>
 
-<a href="https://github.com/ambalikajaiswal/ambalikajaiswal/blob/main/Ambalika_resume.pdf">
+<a href="https://github.com/ambalikajaiswal/ambalikajaiswal/raw/main/assets/Ambalika_Jaiswal_Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
 
