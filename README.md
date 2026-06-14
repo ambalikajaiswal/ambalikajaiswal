@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:FFA500&height=200&section=header&text=Hi%2C+I'm+Ambalika+Jaiswal&fontSize=42&fontColor=00008B&animation=fadeIn&desc=Software+Engineer+%7C+AI%2FML+and+Cloud+Systems+%7C+USC+26+%7C+ex-Amazon+%7C+ex-Optum&descAlignY=70&descSize=17&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:FFA500&height=200&section=header&text=Hi%2C+I'm+Ambalika+Jaiswal+%F0%9F%91%8B&fontSize=42&fontColor=00008B&animation=fadeIn&desc=Software+Engineer+%7C+AI%2FML+and+Cloud+Systems+%7C+USC+26+%7C+ex-Amazon+%7C+ex-Optum&descAlignY=70&descSize=17&fontAlignY=35" width="100%"/>
 <a href="https://www.linkedin.com/in/ambalikajaiswal/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Always+building+and+shipping+something" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Always+building+and+shipping+something+%F0%9F%9A%80" />
 
 </div>
 
