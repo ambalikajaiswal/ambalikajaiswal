@@ -12,19 +12,20 @@
 
 </div>
 
-## 👩‍💻 About Me
-
-I'm a graduate student at USC building applied ML and full-stack systems, with hands-on experience shipping
-production features at **Amazon** and building data-quality pipelines at **Optum (UnitedHealth Group)**.
-I like working at the intersection of **agentic AI, distributed systems, and clean RESTful APIs**
-
-- 🔭 Currently finished my M.S. in Applied Data Science at USC (May 2026)
-- 💡 Interested in LLM agents, NLP, and scalable cloud architectures
-- 🏆 Hackathon Winner — Dietary Maps AI (multi-agent system, 8 specialized agents)
-- 📫 Reach me at **jaiswalambalika@gmail.com**
-
----
-
+./+oooo+/.              ambalika@github
+                 -+oooooooooo+:            ───────────────
+               -+oooooooooooooo:           OS: USC Graduate
+              /ooooooooooooooooo:          Host: Software Engineer / AI-ML Engineer
+             .oooooooooooooooooo+          Education: M.S. Applied Data Science, USC
+             +oooooooooooooooooo+:         Experience: ex-Amazon, ex-Optum
+            .oooooooooooooooooo+oo:        ──────────────
+            +oooooooooooooooooo+ooo:       Languages: Python, Go, TypeScript, SQL, C++
+           .oooooooooooooooo+++oooo+:      AI/ML: LangChain, PyTorch, RAG, Multi-Agent
+           +oooooooooooooo+++oooooooo:     Cloud: AWS, Docker, CI/CD
+          .ooooooooo+++++++oo+++ooooo+     ──────────────
+          /ooo+++++++++++++++++++oooo+     Currently: Building agentic AI for production
+          .+oo+++++++++++++++++ooo+oo+     Fun fact: Won a hackathon — 8 agents, 1 dinner 🍽️
+          
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
