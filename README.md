@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Hi%2C+I'm+Ambalika+Jaiswal+%F0%9F%91%8B&fontSize=42&fontColor=00008B&animation=fadeIn&desc=Software+Engineer+%7C+AI%2FML+and+Cloud+Systems+%7C+USC+26+%7C+ex-Amazon+%7C+ex-Optum&descAlignY=70&descSize=17&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:A0C4FF&height=200&section=header&text=Hi%2C+I'm+Ambalika+Jaiswal+%F0%9F%91%8B&fontSize=42&fontColor=00008B&animation=fadeIn&desc=Software+Engineer+%7C+AI%2FML+and+Cloud+Systems+%7C+USC+26+%7C+ex-Amazon+%7C+ex-Optum&descAlignY=70&descSize=17&fontAlignY=35" width="100%"/>
 <a href="https://www.linkedin.com/in/ambalikajaiswal/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
