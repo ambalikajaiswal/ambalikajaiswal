@@ -105,8 +105,10 @@ least-privilege IAM access with automatic secret destruction.
 ## 📊 GitHub Stats
 
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambalikajaiswal&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ambalikajaiswal&theme=tokyonight&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambalikajaiswal&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=ambalikajaiswal&theme=tokyonight&hide_border=true" />
 
 </div>
 
