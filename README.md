@@ -16,7 +16,7 @@
 | 🎮 Character Sheet      |                                          |
 |--------------------------|------------------------------------------|
 | **Class**                | Software Engineer / AI-ML Engineer        |
-| **Guild**                | USC — M.S. Applied Data Science           |
+| **Guild**                | USC-M.S. Applied Data Science          |
 | **Past Quests**          | Amazon ⚔️, Optum 🛡️                        |
 | **Special Abilities**     | LangChain, PyTorch, Multi-Agent Systems, LLM pipelines|
 | **Equipment**            | Python, Go, TypeScript, AWS, Docker ,C++, SQL, Postgres  |
