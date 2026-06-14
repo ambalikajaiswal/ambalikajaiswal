@@ -125,6 +125,6 @@ if that sounds like your team, I'd love to connect.
 <a href="https://github.com/ambalikajaiswal/ambalikajaiswal/raw/main/assets/Ambalika_Jaiswal_Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/>
 </a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" width="35" height="35" alt="pointing finger"/>
+<img src="https://github.com/ambalikajaiswal/ambalikajaiswal/blob/main/pointing-finger.svg" width="40" height="40"/>
 
 </div>
