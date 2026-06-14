@@ -20,7 +20,7 @@
 | **Past Quests**          | Amazon ⚔️, Optum 🛡️                        |
 | **Special Abilities**     | LangChain, PyTorch, Multi-Agent Systems, LLM pipelines|
 | **Equipment**            | Python, Go, TypeScript, AWS, Docker ,C++, SQL, Postgres  |
-| **Current Quest**        | Shipping AI that survives production     |
+| **Current Quest**        | Shipping AI Systems that survives production     |
 | **Achievement Unlocked** | 🏆 Hackathon Winner — Dietary Maps AI      |
 
 ## 🛠️ Tech Stack
