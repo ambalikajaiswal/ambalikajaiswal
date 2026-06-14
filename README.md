@@ -123,7 +123,7 @@ if that sounds like your team, I'd love to connect.
 <br/>
 
 <img src="https://raw.githubusercontent.com/ambalikajaiswal/ambalikajaiswal/main/pointing-finger.svg" width="40" height="40" align="absmiddle"/>
-<a href="https://github.com/ambalikajaiswal/ambalikajaiswal/raw/main/assets/Ambalika_Jaiswal_Resume.pdf">
+<a href="https://github.com/ambalikajaiswal/ambalikajaiswal/blob/main/Ambalika_resume.pdf">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" align="absmiddle"/>
 </a>
 
