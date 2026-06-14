@@ -95,20 +95,6 @@ least-privilege IAM access with automatic secret destruction.
 
 ---
 
-## 💼 Experience
-
-**Software Development Engineer Intern — Amazon** (May 2025 – Aug 2025)
-- Built and shipped an AI-powered conversation summarizer impacting **45% of total platform views**
-- Designed a fault-tolerant serverless pipeline (AWS CDK, Lambda, SQS + DLQ, DynamoDB) with **95% fault tolerance**
-- Built prompt-driven LLM pipelines mining chat threads for sentiment and product feedback
-
-**Associate Software Engineer II — Optum (UnitedHealth Group)** (May 2022 – Jun 2024)
-- Led a 3-person Agile team refactoring automation logic, improving pipeline speed by **30%**
-- Delivered ETL pipelines that lifted inventory data quality from **60% to 85%**
-- Engineered a DB2 + REST API solution achieving **90% successful daily inventory processing**
-
----
-
 ## 🎓 Education
 
 - **M.S. Applied Data Science**, University of Southern California (Aug 2024 – May 2026), GPA 3.72
@@ -119,9 +105,23 @@ least-privilege IAM access with automatic secret destruction.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambalikajaiswal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambalikajaiswal&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ambalikajaiswal&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm looking for my next challenge in **Software, Backend, or AI/ML Engineering**. 
+I enjoy taking ambiguous problems and turning them into systems that actually 
+ship — if that sounds like your team, I'd love to connect.
+
+<br/>
+
+<a href="https://github.com/ambalikajaiswal/ambalikajaiswal/blob/main/Ambalika_resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+</a>
 
 </div>
