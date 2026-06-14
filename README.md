@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Ambalika%20Jaiswal%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20%26%20Cloud%20Systems%0AM.S.%20Applied%20Data%20Science%20%40%20USC%20'26%20%7C%20ex-Amazon%20%7C%20ex-Optum&descAlignY=70&descSize=16&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Hi,%20I'm%20Ambalika%20Jaiswal%20%F0%9F%91%8B&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%7C%20AI%2FML%20%26%20Cloud%20Systems%0AM.S.%20Applied%20Data%20Science%20%40%20USC%20'26%20%7C%20ex-Amazon%20%7C%20ex-Optum&amp;descAlignY=70&amp;descSize=16&amp;fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ambalikajaiswal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 <a href="mailto:jaiswalambalika@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Always+building+and+shipping+something+%E2%9C%A8;Currently+exploring+agentic+AI+%26+LLM+pipelines;Open+to+new+opportunities+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Always+building+and+shipping+something+%E2%9C%A8;Currently+exploring+agentic+AI+%26+LLM+pipelines;Open+to+new+opportunities+%F0%9F%9A%80"/>
 
 </div>
 
