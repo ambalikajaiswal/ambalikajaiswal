@@ -1,9 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ambalika Jaiswal 👋
-
-### Software Engineer | AI/ML & Cloud Systems | M.S. Applied Data Science @ USC '26
-### ex-Amazon | ex-Optum
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Ambalika%20Jaiswal%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20%26%20Cloud%20Systems%0AM.S.%20Applied%20Data%20Science%20%40%20USC%20'26%20%7C%20ex-Amazon%20%7C%20ex-Optum&descAlignY=70&descSize=16&fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ambalikajaiswal/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
