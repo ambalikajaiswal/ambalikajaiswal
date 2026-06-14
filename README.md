@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Hi%2C+Im+Ambalika+Jaiswal+%F0%9F%91%8B&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Software+Engineer+%7C+AIML+%26+Cloud+Systems+%7C+USC+26+%7C+ex-Amazon+%7C+ex-Optum&amp;descAlignY=70&amp;descSize=14&amp;fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C+Im+Ambalika+Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software+Engineer+%7C+AI%2FML+and+Cloud+Systems+%7C+USC+26+%7C+ex-Amazon+%7C+ex-Optum&descAlignY=70&descSize=14&fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ambalikajaiswal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:jaiswalambalika@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Always+building+and+shipping+something" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Always+building+and+shipping+something" />
 
 </div>
----
 
 ## 👩‍💻 About Me
 
