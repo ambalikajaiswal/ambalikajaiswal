@@ -1,16 +1,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:FFA500&height=200&section=header&text=Hi%2C+I'm+Ambalika+Jaiswal&fontSize=42&fontColor=00008B&animation=fadeIn&desc=Software+Engineer+%7C+AI%2FML+and+Cloud+Systems+%7C+USC+26+%7C+ex-Amazon+%7C+ex-Optum&descAlignY=70&descSize=17&fontAlignY=35" width="100%"/>
-
 <a href="https://www.linkedin.com/in/ambalikajaiswal/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:jaiswalambalika@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Always+building+and+shipping+something" />
 
 </div>
