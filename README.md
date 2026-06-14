@@ -12,20 +12,17 @@
 
 </div>
 
-./+oooo+/.              ambalika@github
-                 -+oooooooooo+:            ───────────────
-               -+oooooooooooooo:           OS: USC Graduate
-              /ooooooooooooooooo:          Host: Software Engineer / AI-ML Engineer
-             .oooooooooooooooooo+          Education: M.S. Applied Data Science, USC
-             +oooooooooooooooooo+:         Experience: ex-Amazon, ex-Optum
-            .oooooooooooooooooo+oo:        ──────────────
-            +oooooooooooooooooo+ooo:       Languages: Python, Go, TypeScript, SQL, C++
-           .oooooooooooooooo+++oooo+:      AI/ML: LangChain, PyTorch, RAG, Multi-Agent
-           +oooooooooooooo+++oooooooo:     Cloud: AWS, Docker, CI/CD
-          .ooooooooo+++++++oo+++ooooo+     ──────────────
-          /ooo+++++++++++++++++++oooo+     Currently: Building agentic AI for production
-          .+oo+++++++++++++++++ooo+oo+     Fun fact: Won a hackathon — 8 agents, 1 dinner 🍽️
-          
+## 👩‍💻 About Me
+| 🎮 Character Sheet      |                                          |
+|--------------------------|------------------------------------------|
+| **Class**                | Software Engineer / AI-ML Engineer        |
+| **Guild**                | USC — M.S. Applied Data Science           |
+| **Past Quests**          | Amazon ⚔️, Optum 🛡️                        |
+| **Special Abilities**     | LangChain, PyTorch, Multi-Agent Systems, LLM pipelines|
+| **Equipment**            | Python, Go, TypeScript, AWS, Docker ,C++, SQL, Postgres  |
+| **Current Quest**        | Shipping AI that survives production     |
+| **Achievement Unlocked** | 🏆 Hackathon Winner — Dietary Maps AI      |
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
