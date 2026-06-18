@@ -86,7 +86,7 @@ A conversational AI system for multilingual sentiment analysis that auto-detects
 intent, and delivers natural-language explanations in the user's native language with low-latency, autonomous
 response generation.
 
-### 🔐 [ZeroTrace](https://github.com/ambalikajaiswal/zerotrace)
+### 🔐 [ZeroTrace](https://github.com/ambalikajaiswal/zero-trace)
 `Go` `TypeScript` `React` `net/http` `Goroutines` `REST APIs`
 
 A full-stack zero-trust secret-sharing application with a TypeScript/React frontend and a Go backend.
